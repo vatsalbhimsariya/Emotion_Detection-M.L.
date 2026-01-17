@@ -2,7 +2,7 @@
 
 **Author:** Vatsal Bhimsariya  
 **GitHub:** https://github.com/vatsalbhimsariya  
-
+**Live:** https://huggingface.co/spaces/vatb/emotion-detection
 ---
 
 ## 📌 Project Overview
