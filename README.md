@@ -4,7 +4,8 @@
 **GitHub:** https://github.com/vatsalbhimsariya 
 
 **Live:** 
-```https://huggingface.co/spaces/vatb/emotion-detection```
+```bash 
+https://huggingface.co/spaces/vatb/emotion-detection```
 
 ---
 
