@@ -49,4 +49,16 @@ The dataset is **not required** to run emotion prediction.
 ```bash
 git clone https://github.com/vatsalbhimsariya/Emotion_Detection-M.L.
 cd Emotion_Detection-M.L.
+```
+2️⃣ Install Dependencies
+```bash
+pip install -r requirements.txt
+```
+3️⃣ Run Emotion Detection (Webcam)
+```bash
+cd src
+python emotions.py --mode display
+```
+📌 A native OpenCV window will open showing the webcam feed.
+Press q to close the webcam window.
 
