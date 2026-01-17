@@ -62,3 +62,11 @@ python emotions.py --mode display
 📌 A native OpenCV window will open showing the webcam feed.
 Press q to close the webcam window.
 
+## 🌐 Live Demo (Emotion Detection)
+
+Try the deployed web app here:  
+```
+👉 https://huggingface.co/spaces/vatb/emotion-detection
+```
+Upload an image and see the model predict your facial emotion in real time!
+
