@@ -1,4 +1,4 @@
-# Emotion detection using deep learning
+# Emotion Detection using Machine Learning
 
 ## Introduction
 
